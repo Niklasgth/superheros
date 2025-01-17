@@ -1,0 +1,82 @@
+[
+    {
+        "heroId": 1,
+        "teamId": 2,
+        "heroName": "Batman"
+    }, 
+    {
+        "heroId": 2,
+        "teamId": 1,
+        "heroName": "B.A"
+    },
+    {
+        "heroId": 3,
+        "teamId": 8,
+        "heroName": "Poison Ivy"
+    }, 
+    {
+        "heroId": 4,
+        "teamId": 2,
+        "heroName": "Wonder Woman"
+    },
+    {
+        "heroId": 5,
+        "teamId": 5,
+        "heroName": "Beast"
+    },
+    {
+        "heroId": 6,
+        "teamId": 5,
+        "heroName": "Cyclops"
+    },
+    {
+        "heroId": 7,
+        "teamId": 1,
+        "heroName": "Hanibal"
+    },
+    {
+        "heroId": 8,
+        "teamId": 8,
+        "heroName": "Deadshot"
+    },
+    {
+        "heroId": 9,
+        "teamId": 8,
+        "heroName": "Captain Boomerang"
+    },
+    {
+        "heroId": 10,
+        "teamId": 5,
+        "heroName": "Wolverine"
+    },
+    {
+        "heroId": 11,
+        "teamId": 1,
+        "heroName": "Face"
+    },
+    {
+        "heroId": 12,
+        "teamId": 5,
+        "heroName": "Storm"
+    },
+    {
+        "heroId": 13,
+        "teamId": 2,
+        "heroName": "The Flash"
+    },
+    {
+        "heroId": 14,
+        "teamId": 8,
+        "heroName": "Joker"
+    },
+    {
+        "heroId": 15,
+        "teamId": 1,
+        "heroName": "Murdoch"
+    },
+    {
+        "heroId": 16,
+        "teamId": 2,
+        "heroName": "Superman"
+    }
+]

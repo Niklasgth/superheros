@@ -1,0 +1,72 @@
+/* style.css */
+
+/* Bakgrundsinställningar */
+body {
+    font-family: 'Comic Sans MS', sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Header-stil */
+header {
+    text-align: center;
+    background-color: #ff4500;
+    color: white;
+    padding: 20px;
+    font-size: 2em;
+    text-shadow: 2px 2px #000;
+}
+
+/* Team lista */
+#teams {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Varje team */
+#teams > li {
+    background-color: #ffcc00;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    font-size: 1.5em;
+}
+
+/* Hero lista inuti team */
+#teams ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 10px 0 0 20px;
+}
+
+/* Varje hero */
+#teams ul li {
+    background-color: #87ceeb;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 1.2em;
+    color: #fff;
+    text-shadow: 1px 1px #000;
+}
+
+/* Hover-effekt för heroes */
+#teams ul li:hover {
+    background-color: #4682b4;
+}
+
+/* Accent på varje team */
+#teams > li::before {
+    content: "⚡";
+    margin-right: 10px;
+    color: #f00;
+}
+
+/* Accent på varje hero */
+#teams ul li::before {
+    content: "🦸";
+    margin-right: 10px;
+}

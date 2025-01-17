@@ -1,0 +1,18 @@
+[
+    {
+        "teamId": 1,
+        "teamName": "A-Team"
+    },
+    {
+        "teamId": 2,
+        "teamName": "Justice League"
+    },
+    {
+        "teamId": 5,
+        "teamName": "X-Men"
+    },
+    {
+        "teamId": 8,
+        "teamName": "Suicide Squad"
+    }
+]
